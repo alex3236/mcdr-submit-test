@@ -1,0 +1,14 @@
+{
+    "id": "mcdr_submit_test",
+    "version": "0.1.0",
+    "name": "MCDR Submit Test",
+    "description": {
+        "en_us": "A throwaway plugin used to verify the website plugin submission flow",
+        "zh_cn": "用于验证网站插件提交流程的一次性插件"
+    },
+    "author": "Alex3236",
+    "link": "https://github.com/alex3236/mcdr-submit-test",
+    "dependencies": {
+        "mcdreforged": ">=2.13.0"
+    }
+}
